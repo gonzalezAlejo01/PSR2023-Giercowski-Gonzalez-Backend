@@ -1,0 +1,27 @@
+{
+  "name": "petmatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "corb": "^0.0.1-security",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^5.7.0",
+    "multer": "^1.4.5-lts.1",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.4",
+    "@types/cors": "^2.8.13",
+    "@types/jsonwebtoken": "^9.0.3",
+    "@types/multer": "^1.4.9"
+  }
+}
